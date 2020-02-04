@@ -21,5 +21,5 @@ Ecommerce Crawling is a [Python (version.3.8)](https://www.python.org/downloads/
 
 # Credits
 Special Thanks To:
-  ..* Python and Selenium Developers Community.
++ Python and Selenium Developers Community.
 
