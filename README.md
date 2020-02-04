@@ -21,5 +21,8 @@ Ecommerce Crawling is a [Python (version.3.8)](https://www.python.org/downloads/
 
 # Credits
 Special Thanks To:
-+ Python and Selenium Developers Community.
++ Python, Selenium and Tor Project developers community.
 
+# About us
+We are undergraduate and graduate students under [Dr. Paul Rad](https://business.utsa.edu/faculty/paul-rad/). If you have concerns or questions, please contact us through peyman.najafirad@utsa.edu
+Thank you very much!
