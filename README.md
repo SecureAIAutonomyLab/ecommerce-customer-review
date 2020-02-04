@@ -25,4 +25,5 @@ Special Thanks To:
 
 # About us
 We are undergraduate and graduate students under [Dr. Paul Rad](https://business.utsa.edu/faculty/paul-rad/). If you have concerns or questions, please contact us through peyman.najafirad@utsa.edu
+
 Thank you very much!
