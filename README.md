@@ -19,3 +19,7 @@ Ecommerce Crawling is a [Python (version.3.8)](https://www.python.org/downloads/
 3. Change the location of **firefox.exe** file that is stored in the Tor Browser package in step 5 of **Requirements** | **Tor Browser/Browser/firefox.exe** file into tor_file_path
 4. Change the location of **profile.default** file that is stored in the Tor Browser package in step 5 of **Requirements** | **Tor Browser/Browser/TorBrowser/Data/Browser/profile.default** file into tor_profile_path
 
+# Credits
+Special Thanks To:
+..* Python and Selenium Developers Community.
+
