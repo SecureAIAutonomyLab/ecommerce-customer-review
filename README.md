@@ -15,7 +15,7 @@ Ecommerce Crawling is a [Python (version.3.8)](https://www.python.org/downloads/
 
 ### How to set up the Ecommerce Crawling Application in Windows 10
 1. Please download our project application.
-2. Run **Start Tor Browser**  in Tor Browser package in step of **Requirements**.
+2. Run **Start Tor Browser**  in Tor Browser package in step 5 of **Requirements**.
 2. From the root folder of the project application, please follow and open **_config/config.yml_** file.
 3. Change the location of **firefox.exe** file that is stored in the Tor Browser package in step 5 of **Requirements** | **Tor Browser/Browser/firefox.exe** file into tor_file_path
 4. Change the location of **profile.default** file that is stored in the Tor Browser package in step 5 of **Requirements** | **Tor Browser/Browser/TorBrowser/Data/Browser/profile.default** file into tor_profile_path
