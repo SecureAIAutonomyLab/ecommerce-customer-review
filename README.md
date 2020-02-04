@@ -3,7 +3,7 @@
 # Ecommerce Crawling Application
 
 ### Summary
-Ecommerce Crawling is a [Python (version.3.8)](https://www.python.org/downloads/) application to crawl data from online retailers (such as: Amazon, Walmart, SamsClub and etc.). Besides, the application uses [Selenium with Python library](https://selenium-python.readthedocs.io/) to support crawling processes. At the momemnt, the application is only run in **Windows 10**. If we have another updates to run the application in other operating systems (Linux or macOS), we will let you know soon.
+Ecommerce Crawling is a [Python (version.3.8)](https://www.python.org/downloads/) application to crawl customer reviews data from online retailers (such as: Amazon, Walmart, SamsClub and etc.). Besides, the application uses [Selenium with Python library](https://selenium-python.readthedocs.io/) to support crawling processes. At the momemnt, the application is only run in **Windows 10**. If we have another updates to run the application in other operating systems (Linux or macOS), we will let you know soon.
 
 ### Requirements
 1. Install [Python- version 3.8](https://www.python.org/downloads/). Check python version by using this command **_python --version_**
